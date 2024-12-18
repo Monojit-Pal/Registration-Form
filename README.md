@@ -1,6 +1,6 @@
 # Registration Form
 
-This is a simple registration form application built using Python and `tkinter`. The form collects user information such as Name, Father's Name, Mother's Name, Permanent Address, Current Address, Date of Birth, Department, 10th Marks, and 12th Marks. The collected data is saved in an Excel file (`registration_data.xlsx`) using the `openpyxl` library.
+This is a simple registration form application built using Python and `tkinter`. The form collects user information such as Name, Father's Name, Mother's Name, Permanent Address, Current Address, Date of Birth, Department, 10th Marks, and 12th Marks. The collected data is saved in an Excel file (`registration_data.xlsx`) using the `openpyxl` library. 
 
 ## Features
 
