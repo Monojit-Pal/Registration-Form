@@ -40,6 +40,7 @@ def validate_date(date_text):
             return f"Invalid day for {['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][month - 1]}. Must be between 1 and {days_in_month[month - 1]}"
         
         return True
+        
     except ValueError:
         return "Invalid date. Please check your input"
 
