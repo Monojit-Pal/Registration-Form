@@ -42,7 +42,7 @@ def validate_date(date_text):
         return True
         
     except ValueError:
-        return "Invalid date. Please check your input"
+        return "Invalid date. Please check your input" 
 
 def submit_form():
     name = entry_name.get()
