@@ -23,7 +23,7 @@ The data is saved in an Excel file (`registration_data.xlsx`) in the following f
 
 | Name | Father's Name | Mother's Name | Permanent Address | Current Address | Date of Birth | Department | 10th Marks | 12th Marks |
 |------|---------------|---------------|-------------------|-----------------|---------------|------------|------------|------------|
-| John Doe | Richard Doe | Jane Doe | 123 Main St | 456 Elm St | 01/01/2000 | Science | 950 | 900 |
+| John Doe | Richard Doe | Jenny Doe | 123 Main St | 456 Elm St | 01/01/2000 | Science | 950 | 900 |
 
 ## Screenshot
 
